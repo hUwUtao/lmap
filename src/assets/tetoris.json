@@ -1,0 +1,189 @@
+{
+  "lines": [
+    {
+      "reference": ["どうして", "すぐ", "知って", "しまう", "の"],
+      "translation": ["why", "do", "I", "quickly", "know"],
+      "mapper": [0, null, null, 1, 2]
+    },
+    {
+      "reference": ["共振", "で", "苦しんで", "し", "罵倒"],
+      "translation": ["suffering", "in", "resonance", "with", "abuse"],
+      "mapper": [2, 1, 0, 3, 4]
+    },
+    {
+      "reference": ["Q.", "更新", "で", "降る", "隕石", "抹消", "可"],
+      "translation": [
+        "Q.",
+        "can",
+        "falling",
+        "meteors",
+        "be",
+        "erased",
+        "by update"
+      ],
+      "mapper": [0, 6, 3, 4, null, 5, 1]
+    },
+    {
+      "reference": ["悪く", "ない"],
+      "translation": ["not", "bad"],
+      "mapper": [1, 0]
+    },
+    {
+      "reference": ["興味", "ねえ", "救い", "派手", "感動"],
+      "translation": ["no", "interest", "in", "flashy", "emotional salvation"],
+      "mapper": [1, 0, null, 3, 4]
+    },
+    {
+      "reference": ["常備", "ねえ", "薬", "食べ", "BAD"],
+      "translation": ["no", "regular", "medicine", "eating", "BAD"],
+      "mapper": [1, 0, 2, 3, 4]
+    },
+    {
+      "reference": ["Q.", "超", "酷え", "フル", "見た目", "暗号化"],
+      "translation": [
+        "Q.",
+        "is",
+        "the",
+        "full",
+        "awful appearance",
+        "encrypted"
+      ],
+      "mapper": [0, null, null, 3, 2, 5]
+    },
+    {
+      "reference": ["金", "による"],
+      "translation": ["by", "money"],
+      "mapper": [1, 0]
+    },
+    {
+      "reference": ["常識", "ねえ", "狂い", "っぱ", "で", "乱闘"],
+      "translation": ["no", "common sense", "in", "going", "crazy", "brawl"],
+      "mapper": [1, 0, 4, 3, 2, 5]
+    },
+    {
+      "reference": ["放置", "ゲー", "する", "陰キャ", "で", "バンド"],
+      "translation": [
+        "an",
+        "introvert",
+        "band",
+        "playing",
+        "neglected",
+        "games"
+      ],
+      "mapper": [null, 3, 5, 2, 0, 1]
+    },
+    {
+      "reference": ["Q.", "送信", "で", "苦しい", "ダメ", "Cancel", "は"],
+      "translation": [
+        "Q.",
+        "can",
+        "we",
+        "Cancel",
+        "this",
+        "painful",
+        "transmission"
+      ],
+      "mapper": [0, null, null, 5, null, 3, 1]
+    },
+    {
+      "reference": ["草", "生える"],
+      "translation": ["the", "grass", "grows"],
+      "mapper": [null, 0, 1]
+    },
+    {
+      "reference": ["どうして", "すぐ", "見て", "しまう", "の"],
+      "translation": ["why", "do", "I", "quickly", "see"],
+      "mapper": [0, null, null, 1, 2]
+    },
+    {
+      "reference": ["どうして", "すぐ", "言って", "しまう", "の"],
+      "translation": ["why", "do", "I", "quickly", "say"],
+      "mapper": [0, null, null, 1, 2]
+    },
+    {
+      "reference": ["どうして", "すぐ", "壊れ", "ちゃう", "かな"],
+      "translation": ["why", "do", "I", "break", "down", "so", "quickly"],
+      "mapper": [0, null, null, 2, 3, null, 1]
+    },
+    {
+      "reference": ["（パパラパラパラ）"],
+      "translation": ["(pa-pa-ra-pa-ra-pa-ra)"],
+      "mapper": [0]
+    },
+    {
+      "reference": ["近未来", "しか", "勝たん"],
+      "translation": ["only", "the", "near future", "wins"],
+      "mapper": [1, null, 0, 2]
+    },
+    {
+      "reference": ["ショッピンモール", "の", "現代", "コンピュー"],
+      "translation": ["modern", "computers", "in", "the", "shopping mall"],
+      "mapper": [2, 3, null, null, 0]
+    },
+    {
+      "reference": ["小窓", "ﾀﾋ", "か", "加担"],
+      "translation": ["small window", "death", "or", "complicity"],
+      "mapper": [0, 1, 2, 3]
+    },
+    {
+      "reference": ["モンティホール", "の", "経費", "で", "ピンボール"],
+      "translation": ["pinball", "with", "Monte Hall's", "expenses"],
+      "mapper": [4, 3, 0, 2]
+    },
+    {
+      "reference": ["オイルマッサージ", "100分", "コース", "足湯", "付き"],
+      "translation": [
+        "100-minute",
+        "oil massage",
+        "course",
+        "with",
+        "foot bath"
+      ],
+      "mapper": [1, 0, 2, null, 3]
+    },
+    {
+      "reference": ["柚子", "を", "添えて"],
+      "translation": ["garnished", "with", "yuzu"],
+      "mapper": [2, null, 0]
+    },
+    {
+      "reference": ["テテテテトテト", "テテテテトリス"],
+      "translation": ["te-te-te-te-to-te-to", "te-te-te-te-tris"],
+      "mapper": [0, 1]
+    },
+    {
+      "reference": ["どうして", "こんな", "目", "に", "に", "に"],
+      "translation": ["why", "am", "I", "in", "such", "a", "situation"],
+      "mapper": [0, null, null, 3, 1, null, 2]
+    },
+    {
+      "reference": [
+        "興味",
+        "が",
+        "ない",
+        "こと",
+        "本気",
+        "じゃない",
+        "もの",
+        "全部",
+        "後回し",
+        "で"
+      ],
+      "translation": [
+        "all",
+        "things",
+        "I'm",
+        "not",
+        "interested",
+        "in",
+        "and",
+        "not",
+        "serious",
+        "about",
+        "are",
+        "postponed"
+      ],
+      "mapper": [7, 3, null, 2, 0, null, null, 5, 4, null, null, 8]
+    }
+  ]
+}
