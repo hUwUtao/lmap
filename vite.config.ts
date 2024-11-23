@@ -7,4 +7,5 @@ export default defineConfig({
     UnoCSS(),
     react()
   ],
+  base: "/lmap/"
 })
